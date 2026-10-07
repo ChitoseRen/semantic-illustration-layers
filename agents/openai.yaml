@@ -1,0 +1,4 @@
+interface:
+  display_name: "用于L2D和Spine的插画分层及补画技能"
+  short_description: "为 Live2D 和 Spine 拆分插画、补齐遮挡，交付底色光影可编辑母版与普通图层版 PSD"
+  default_prompt: "使用 $semantic-illustration-layers 按这张插画的动画需求规划拆件，补齐隐藏部位，分开固有色与光影，检查原画还原和相对动作，交付可编辑母版及普通图层版 PSD。"
